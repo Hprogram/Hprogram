@@ -10,4 +10,12 @@
  Velog : "[younghoss](https://velog.io/@younghoss)",  
  E-Mail : "wjs2096@gmail.com",  
  Phone : "010-3315-2096"  
- }
+ }  
+  
+  
+🧑‍💻 **Tech Stack**  
+
+- [ **Strong** ] NodeJS, JavaScript, Express, Sequelize, MySQL, RestfulAPI
+- [ **Knowledgeable** ] TypeScript,  NestJS,  TypeOrm , React, Redux, HTML, CSS
+- [ **Tools** ] Git, AWS(EC2, RDS, S3), Slack, Notion
+- [ **Studying Tech** ] GraphQL
