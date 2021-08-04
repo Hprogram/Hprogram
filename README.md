@@ -1,16 +1,13 @@
 ### Hi there 👋
 
-<!--
-**Hprogram/Hprogram** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 **백엔드** 주니어 개발자입니다!
+- 🌱 **Node.js**를 주로 이용하며 **Nest.js**도 공부하고 있습니다.
+- 👯 매일 조금씩 발전하는것을 목표로 **꾸준히 학습**하는 것을 지향합니다.
+- 🤔 새로운 해결방법을 강구하며 **성장**하는 것에 관심이 많습니다.
+- 💬 새로운 것을 배우는것을 좋아하고 즐기며 쉽게 포기하지 않는 **끈기**를 가지고 있습니다.
+- 📫 제가 궁굼하시다면? : {
+ Velog : velog.io/@younghoss,
+ E-Mail : wjs2096@gmail.com,
+ Phone : 010-3315-2096
+ }
