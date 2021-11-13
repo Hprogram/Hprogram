@@ -16,5 +16,5 @@
 
 - [ **Strong** ] NodeJS, JavaScript, Express, Sequelize, MySQL, RestfulAPI
 - [ **Knowledgeable** ] TypeScript,  NestJS,  TypeOrm , React, Redux, HTML, CSS
-- [ **Tools** ] Git, AWS(EC2, RDS, S3), Slack, Notion
+- [ **Tools** ] Git, AWS(EC2, RDS, S3, CF), Slack, Notion
 - [ **Studying Tech** ] GraphQL, MongoDB, VueJS, Python(Django,Flask), Flutter
