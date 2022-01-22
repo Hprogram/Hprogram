@@ -15,6 +15,6 @@
 🧑‍💻 **Tech Stack**  
 
 - [ **Strong** ] NodeJS, JavaScript, Express, Sequelize, MySQL, RestfulAPI
-- [ **Knowledgeable** ] TypeScript,  NestJS,  TypeOrm, Moongoose, React, Redux, HTML, CSS
+- [ **Knowledgeable** ] TypeScript,  NestJS,  TypeOrm, Moongoose, React, Redux, HTML, CSS, Docker
 - [ **Tools** ] Git, AWS(EC2, RDS, S3, CF), Slack, Notion
 - [ **Studying Tech** ] GraphQL, MongoDB, VueJS, Python(Django,Flask), Flutter
